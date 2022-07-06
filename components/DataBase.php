@@ -45,7 +45,7 @@ $aboutMe = array(
 $cvCategories = array(
     array("Education", "Studii"),
     array("Work Experience", "Experiență"),
-    array("Other", "Alte activități"),
+    array("Skills", "Abilități"),
     array("Skills", "Abilități"),
 );
 
