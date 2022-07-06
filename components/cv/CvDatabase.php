@@ -6,206 +6,57 @@ class CvDatabase
 {
     public function getHighSchoolCv()
     {
+
+
         $highSchool = new CvItem(
-            "2018 - ",
-            "2018 - ",
-            "ongoing",
-            "prezent",
-            "Baccalaureate Diploma",
-            "Diplomă de Bacalaureat",
-            '<a href="https://licsfsava.ro" style="color: black !important" target="_blank">"Saint Sava" National College</a>',
-            '<a href="https://licsfsava.ro" target="_blank" style="color: black !important">Colegiul Național "Sfântul Sava"</a>',
+            "1989 - ",
+            "1989 - ",
+            "1994",
+            "1994",
+            "Economist ",
+            "Economist ",
+            'Academy of Economic Studies, Faculty of Commerce, specialization International economic Relations',
+            'Academia de Studii Economice, Facultatea de Comerţ, specializarea Relaţii Economice Internaţionale',
 
             '
                     <div style="color:#999999">
-                        <p>I study at the best high school in Romania <b>mathematics-informatics profile</b> and I am currently in the 12<sup>th</sup> grade.</p>
-                        <p>I will sustain Baccalaureate Exam at Mathematics, Physics, Romanian, Digital Competences and English.</p>    
+                        <p><b>Bachelor\'s Degree in</b>: Political Economy, International Trade, Management
+    and Foreign Trade Techniques</p>  
+                        <p><b>Diploma:</b> Foreign exchange and interest rate risk in international trade.
+Methods and techniques for covering them</p>
+                        <p><b>Final degree: 9.13</b></p>
+                        
+                        <br><br>
+                        <p><span style="font-size: 120%"><b>Other courses:</b></span>
+<br>broker course (broker authorized by the Romanian Commodity
+<br>Exchange on the spot, forward, futures markets)
+<br>actuarial seminar - life insurance (USAID program)
+<br>investment seminar (USAID program)
+<br>sales techniques courses - LIMRA
+<br>claims, reinsurance courses - MÜNICH RE, FRANKONA RE</p>
                     </div>
                 ',
 
             '
                     <div style="color:#999999">
-                        <p> Studiez la cel mai bun liceu din România <b>profilul matematică-informatică</b> și în prezent sunt în clasa a 12-a.</p>
-                        <p> Voi susține examenul de bacalaureat la matematică, fizică, română, competențe digitale și engleză.</p>
+                        <p><b>Licenţă la disciplinele:</b> Economie Politică, Comerţ Internaţional, Management
+şi Tehnici de Comerţ Exterior</p>  
+                        <p><b>Diplomă:</b>Riscul valutar şi al ratei dobânzii în comerţul internaţional. Metode
+şi tehnici de acoperire a lor</p>
+                        <p><b>Medie finală: 9,13</b></p>
                     </div>
                 '
         );
 
-        $sat = new CvItem(
-            "Dec 2020",
-            "Dec 2020",
-            "",
-            "",
-            '<a href="https://www.collegeboard.org/" style="color: black !important" target="_blank">Scholastic Assessment Test (SAT)</a>',
-            '<a href="https://www.collegeboard.org/" style="color: black !important" target="_blank">Scholastic Assessment Test (SAT)</a>',
-            '<a href="https://www.collegeboard.org/" style="color: black !important" target="_blank">College Board</a>',
-            '<a href="https://www.collegeboard.org/" style="color: black !important" target="_blank">College Board</a>',
 
-            "
-                    <p>Overall: <b>1360 points</b> - higher than 91% of test takers</p>
-                    <p>Math: <b>760 points</b> - higher than 96% of test takers
-                    <br>English: <b>600 points</b> - higher than 76% of test takers</p>
-                ",
-
-            "
-                    <p>Total: <b>1360 de puncte</b> - mai mare decât 91% dintre candidații SAT</p>
-                    <p>Matematică: <b>760 de puncte</b> - mai mare decât 96% dintre candidații SAT
-                    <br>Engleză: <b>600 de puncte</b> - mai mare decât 76% dintre candidații SAT</p>
-                "
-        );
 
         $schools = array(
             $highSchool,
-            $sat
         );
 
         return $schools;
     }
 
-
-    public function getEducationCv()
-    {
-        $django = new CvItem(
-            "Jul 2021",
-            "Iul 2021",
-            "",
-            "",
-            "<a style='color:black' href='https://codewithmosh.com/'>Django - The Ultimate Course</a>",
-            "<a style='color:black' href='https://codewithmosh.com/'>Django - The Ultimate Course</a>",
-            "<a style='color:black' href='https://codewithmosh.com/'>Mosh Hamedani</a>",
-            "<a style='color:black' href='https://codewithmosh.com/'>Mosh Hamedani</a>",
-            "<p>The course covers the following chapters of Django: Data Models, Databases, Django ORM, Django Admin.</p>",
-            "<p>Cursul cuprinde următoarele capitole: Data Models, Databases, Django ORM, Django Admin.</p>"
-        );
-
-        $edxHarvard = new CvItem(
-            "Jun 2021 - ",
-            "Jun 2021 - ",
-            "ongoing",
-            "prezent",
-            "<a style='color:black' href='https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home'>Web Programming with Python and JavaScript</a>",
-            "<a style='color:black' href='https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home'>Web Programming with Python and JavaScript</a>",
-            "<a style='color:black' href='https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home'>Harvard CS50</a>",
-            "<a style='color:black' href='https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home'>Harvard CS50</a>",
-
-            "
-                    <p>The course covers the following chapters: HTML, CSS, Git, Python, Django, MySQL, Javascript, User Interfaces, Testing and Scalability and Security.</p>
-                ",
-
-            "
-                    <p>Cursul cuprinde următoarele capitole: HTML, CSS, Git, Python, Django, MySQL, Javascript, User Interfaces, Testing and Scalability și Security.</p>
-                "
-        );
-
-
-        $sololearn = new CvItem(
-            "Nov 2020 - ",
-            "Nov 2020 - ",
-            "ongoing",
-            "prezent",
-            "<a style='color:black' href='https://www.sololearn.com/home'>Programming Courses</a>",
-            "<a style='color:black' href='https://www.sololearn.com/home'>Cursuri de programare</a>",
-            "<a style='color:black' href='https://www.sololearn.com/home'>Sololearn</a>",
-            "<a style='color:black' href='https://www.sololearn.com/home'>Sololearn</a>",
-            '
-                    <p>I have attended and graduated the following SoloLearn courses: Python Core, Python Data Structures, Java, PHP, HTML, CSS, Responsive Web Design.</p>
-                    <p>I am currently attending MySQL and C++ courses.</p>
-                ',
-            '
-                     <p>Am urmat și am absolvit următoarele cursuri SoloLearn: Python Core, Python Data Structures, Java, PHP, HTML, CSS, Responsive Web Design.</p>
-                     <p>În prezent particip la cursurile de MySQL și C++. </p>
-                '
-        );
-
-        $edxDelft = new CvItem(
-            "Apr 2021 - ",
-            "Apr 2021 - ",
-            "Jun 2021",
-            "Iun 2021",
-            "<a href='https://learning.edx.org/course/course-v1:DelftX+Calc001x+2T2020/home' style='color:black;'>Pre-University Calculus</a>",
-            "<a href='https://learning.edx.org/course/course-v1:DelftX+Calc001x+2T2020/home' style='color:black;'>Pre-University Calculus</a>",
-            "<a href='https://www.tudelft.nl/' style='color:black;'>TU Delft</a>",
-            "<a href='https://www.tudelft.nl/' style='color:black;'>TU Delft</a>",
-
-            '
-                    <p>I graduated the official pre-university calculus course organized by TU Delft with the remarkable <b>final grade of 91%</b>.</p>
-                    <p>I did gain indispensable calculus and mathematical algorithm knowledge including equations, functions, differentiation, integration and geometry.</p>
-                ',
-
-            '
-                    <p>Am absolvit cursul oficial de pre-university calculus organizat de TU Delft cu <b>nota finală de 91% </b>.</p>
-                    <p>Am obținut cunoștiințe indispensabile de calcul și algoritmi matematici, inclusiv ecuații, funcții, diferențiere, integrale și geometrie.</p>
-                '
-        );
-
-
-        $jademyCourses = new CvItem(
-            "Mar 2020 - ",
-            "Mar 2020 - ",
-            "Nov 2020",
-            "Nov 2020",
-            "<a href='https://jademy.ro/'  target='_blank' style='color:black;'>Java Courses</a>",
-            "<a href='https://jademy.ro/' target='_blank' style='color:black;'>Cursuri Java</a>",
-            "<a href='https://jademy.ro/' target='_blank' style='color:black;'>Jademy - Oracle Silver Partner</a>",
-            "<a href='https://jademy.ro/' target='_blank' style='color:black;'>Jademy - Oracle Silver Partner</a>",
-
-            '
-                    <p>I have attended Oracle authorised back end courses of Java.</p>
-                    <p>The course helped me develop an algorithmic thinking and I gained knowledge of OOP, debugging, solving problems, handling exceptions, databases (SQL and JDBC), functional programming and Java FX.</p>
-                ',
-
-            '
-                    <p>Am participat la cursul de Java organizat de centrul partener Oracle, <a href="https://jademy.ro" target="_blank">Jademy</a>. </p>
-                    <p>Cursul mi-a dezvoltat gândirea algoritmică și am dobândit cunoștiințe de OOP, debugging, rezolvarea erorilor, gestionarea excepțiilor, baze de date (SQL și JDBC), programare funcțională și Java FX.</p>
-            '
-        );
-
-
-        //to be removed and added to skills
-        $ecdl = new CvItem(
-            "2018 - ",
-            "2018 - ",
-            "2019",
-            "2019",
-            "ECDL certificate",
-            "Certificat ECDL",
-            "ECDL (European Computer Driving Licence)",
-            "ECDL (European Computer Driving Licence)",
-            '<p style="color:#999999">I have achieved the ECDL (European Computer Driving License)
-                                in: </p>
-
-                            <ul style="color:#999999">
-                                <li>KompoZer 2.0</li>
-                                <li>Microsoft PowerPoint</li>
-                                <li>Microsoft Word</li>
-                                <li>Microsoft Excel</li>
-                                <li>Microsoft Access</li>
-                                <li>Microsoft Outlook</li>
-                                <li>Computer Usage</li>
-                            </ul>',
-            '<p>În clasa a 9-a am luat toate examenele ECDL: </p><ul>
-									<li>KompoZer 2.0</li>
-									<li>Microsoft PowerPoint</li>
-									<li>Microsoft Word</li>
-									<li>Microsoft Excel</li>
-									<li>Microsoft Access</li>
-									<li>Microsoft Outlook</li>
-									<li>Utilizarea Calculatorului</li>
-								</ul>'
-        );
-
-
-        $cv = array(
-            $edxHarvard,
-            $sololearn,
-            $django,
-            $edxDelft,
-            $jademyCourses
-        );
-
-
-        return $cv;
-    }
 
     public function getDevelopingCv()
     {
@@ -221,7 +72,7 @@ class CvDatabase
 
             '
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    - negotiating and concluding contracts with insurance brokers; developing partnerships with insurance brokers; analysis and negotiation of more complex requests for quotation; (conditions, quotations, discounts, commissions)
                 </p>
             ',
 
@@ -243,8 +94,7 @@ class CvDatabase
             'FATA Asigurari S.A. – Generali Group',
             '
                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                    </p>
+                        - elaboration of the sales strategy; recruitment of branch managers; negotiating and concluding contracts with insurance brokers; development of franchise partnerships; developing the agricultural insurance portfolio through direct; negotiation with large farmers                    </p>
             ',
             '
                     <p>
@@ -266,8 +116,7 @@ class CvDatabase
 
             '
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                </p>      
+                    - developing the sales network by recruiting agency directors; eveloping partnerships with insurance brokers; monitoring the sales network in order to achieve the objectives on life; insurance, non-life insurance and the 2nd pension pillar;                </p>      
             ',
 
             '

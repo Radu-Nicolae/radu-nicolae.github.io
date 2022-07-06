@@ -83,7 +83,7 @@ $hireMe = array(
 
 $contact = array(
     array("Contact Me!", "Contactează-mă!"),
-    array("You can contact me using one of the following methods. I usually reply in a few hours.", "Mă poți contacta folosind una dintre modalitățile de mai jos. În general, raspund în maximum cateva ore."),
+    array("You can contact me using one of the following methods. I reply in a few hours.", "Mă poți contacta folosind una dintre modalitățile de mai jos. În general, raspund în cateva ore."),
     array("Phone", "Telefon"),
     array("Personal Website", "Website Personal"),
     array("City", "Oraș"),

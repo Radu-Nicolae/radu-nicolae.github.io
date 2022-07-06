@@ -12,12 +12,6 @@
 
 <?php include "components/cv/CvMain.php" ?>
 
-<?php include "components/services/Services.php" ?>
-
-<?php include "components/Websites.php" ?>
-
-<?php include "components/HireMe.php" ?>
-
 <?php include "components/Contact.php" ?>
 
 <?php include "components/Footer.php" ?>

@@ -105,8 +105,6 @@ class SoftSkills{
                     }
                 </style>
             
-                <h2 class="heading">Soft Skills</h2>
-            
                 <div class="container-fluid px-md-5">';
 
         for ($i = 0; $i < sizeof($softSkills); $i++){
@@ -142,7 +140,7 @@ class SoftSkills{
             $code .= $codePerItem;
         }
 
-        $code .= "</div> </section>";
+        $code .= "</div><br><br> </section>";
 
         return $code;
 
