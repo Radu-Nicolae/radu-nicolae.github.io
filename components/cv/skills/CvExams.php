@@ -75,7 +75,7 @@
         -ms-transform: translateY(-50%);
         transform: translateY(-50%);
         font-size: 100% !important;
-        color: #ff851b !important;
+        color: #3e64ff !important;
     }
 
     h4{

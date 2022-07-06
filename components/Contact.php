@@ -20,7 +20,7 @@
                     </div>
                     <div>
                         <h3 class="mb-4"><?= $contact[2][$lang]?></h3>
-                        <p><a href="tel://+40726066744">+40 726 066 744</a></p>
+                        <p><a href="tel://+40722715121">+40 726 066 744</a></p>
 
                     </div>
                 </div>
@@ -32,7 +32,7 @@
                     </div>
                     <div>
                         <h3 class="mb-4">Mail</h3>
-                        <p style="font-size: small;"><a href="mailto:mail@radu-nicolae.com">mail@radu-nicolae.com</a>
+                        <p style="font-size: small;"><a href="mailto:viorelnicolae@yahoo.com">viorelnicolae@yahoo.com</a>
                         </p>
                     </div>
                 </div>

@@ -209,528 +209,311 @@ class CvDatabase
 
     public function getDevelopingCv()
     {
-        $github = new CvItem(
-            "",
-            "",
-            "",
-            "",
-            '<a href="https://github.com/Radu-Nicolae?tab=repositories"
-                                   style="text-decoration: underline; text-decoration-color: black !important;"><h2>
-                    Github</h2></a>',
-            '<a href="https://github.com/Radu-Nicolae?tab=repositories"
-                                   style="text-decoration: underline; text-decoration-color: black !important;"><h2>
-                    Github</h2></a>',
-            "",
-            "",
+        $grawe = new CvItem(
+            "Oct 2017 - ",
+            "Oct 2017 -",
+            "present",
+            "prezent",
+            'Broker Business Development Director',
+            'Broker Business Development Director',
+            "<u>Grawe Romania S.A.</u>",
+            "<u>Grawe Romania S.A.</u>",
 
             '
                 <p>
-                    <a href="https://github.com/Radu-Nicolae?tab=repositories">Github</a> is the platform where I upload all my projects.
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
                 </p>
             ',
 
             '
                 <p>
-                    <a href="https://github.com/Radu-Nicolae?tab=repositories">Github</a> este platforma pe care încarc toate proiectele pe care le dezvolt.
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
                 </p>
             '
         );
 
-        $viviriaFestival = new CvItem(
-            "Jul 2021 - ",
-            "Iul 2021 - ",
-            "Sep 2021",
-            "Sep 2021",
-            "Web Developer",
-            "Web Developer",
-            '<a href="https://viviriafestival.ro" class="linksiteuri"
-                                                          style="text-decoration: underline; color: black !important">Viviria Festival</a>',
-            '<a href="https://viviriafestival.ro" class="linksiteuri"
-                                                          style="text-decoration: underline; color: black !important">Viviria Festival</a>',
+        $generali = new CvItem(
+            "Aug 2010 - ",
+            "Aug 2010 - ",
+            "Sep 2017",
+            "Sep 2017",
+            "National Sales Director",
+            "National Sales Director",
+            'FATA Asigurari S.A. – Generali Group',
+            'FATA Asigurari S.A. – Generali Group',
             '
-                <p>I worked as a web developer for the official website of the literature festival Viviria. I created the website primarly using PHP and I kept its maintenance.</p>
+                   <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
             ',
             '
-                <p>Am fost web developer pentru site-ul oficial al festivalului de literatură Viviria. Am creat acest website folosind în mare parte PHP și am păstrat mentenanța acestuia.</p>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
             '
 
         );
 
-        $topTheWhole = new CvItem(
-            "Jan 2021 - ",
-            "Ian 2020 - ",
-            "ongoing",
-            "prezent",
-            "Website Founder",
-            "Fondator Website",
-            '<a href="https://topthewhole.com" class="linksiteuri"
-                                                          style="text-decoration: underline; color: black !important">Top The Whole</a>',
-            '<a href="https://topthewhole.com" class="linksiteuri"
-                                                          style="text-decoration: underline; color: black !important">Top The Whole</a>',
+        $eureko = new CvItem(
+            "Sep 2007 - ",
+            "Sep 2007 - ",
+            "Jul 2010",
+            "Jul 2010",
+            "Regional director",
+            "Regional director",
+            'EUREKO ROMANIA INSURANCE COMPANY S.A. ',
+            'EUREKO ROMANIA INSURANCE COMPANY S.A. ',
 
             '
-                <p>Website owner - developed in order to attract traffic for Google Adsense.<br> 
-                I built the website together with <a href="https://luanaionica.com" target="_blank"><u>Luana</u></a> using PHP and SEO. I am currently keeping the maintenaince of the website.
-                </p>        
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                </p>      
             ',
 
             '
-                <p> Website owner - dezvoltat pentru a atrage trafic pentru Google Adsense.<br>
-                Am construit site-ul împreună cu <a href="https://luanaionica.com" target="_blank"><u>Luana</u></a> folosind PHP și SEO. În prezent păstrez mentenanța site-ului web. </p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
                 </p>
             '
         );
 
 
-        $raduNicolaeWebsite = new CvItem(
-            "Mar 2020 - ",
-            "Mar 2020 - ",
-            "ongoing",
-            "prezent",
-            "Web Developer",
-            "Web Developer",
-            '<a href="#" class="linksiteuri" style="text-decoration: underline; color: black !important">This website</a>',
-            '<a href="#" class="linksiteuri" style="text-decoration: underline; color: black !important">Acest website</a>',
+        $bcr = new CvItem(
+            "Sep 2005 - ",
+            "Sep 2005 - ",
+            "Jun 2010",
+            "Jun 2010",
+            "Project manager",
+            "Project manager",
+            'BCR ASIGURARI S.A. ',
+            'BCR ASIGURARI S.A. ',
 
             '
-                        <p style="text-align: justify;">I structured, designed and built my personal website by myself using HTML, CSS, Javascript, PHP and GIT. In present I am keeping its maintenance.</p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                </p>
                     ',
 
             '
-                        <p style="text-align: justify;">Am structurat, proiectat și construit acest site folosind HTML, CSS, Javascript, PHP și GIT. În prezent păstrez mentenanța site-ului.</p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                </p>
                 '
         );
 
-        $happyCampsWebsite = new CvItem(
-            "Mar 2020 - ",
-            "Mar 2020 - ",
-            "Jun 2020",
-            "Iun 2020",
-            "Web Developer Internship",
-            "Web Developer Internship",
-            '<a href="https://happycamps.club" target="_blank" class="linksiteuri" style="text-decoration: underline; color: black !important">Happy Camps Club Website</a>',
-            '<a href="https://happycamps.club" target="_blank" class="linksiteuri" style="text-decoration: underline; color: black !important">Happy Camps Club Website</a>',
+        $broker = new CvItem(
+            "Dec 2004 - ",
+            "Dec 2004 - ",
+            "Aug 2005",
+            "Aug 2005",
+            "President - General Manager",
+            "President - General Manager",
+            'PARTENER – BROKER DE ASIGURARE S.A.',
+            'PARTENER – BROKER DE ASIGURARE S.A.',
 
             '
-                        <p style="text-align: justify;">I structured, designed, built and kept the maintenance for the official website of Happy Camps Club.</p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                </p>
                     ',
 
             '
-                        <p style="text-align: justify;">Am structurat, proiectat și dezvoltat site-ul oficial al Happy Camps Club, iar în prezent mă ocup cu mentenanța acestuia.</p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                </p>
                     '
         );
 
-        $interactWebsite = new CvItem(
-            "Feb 2020 - ",
-            "Feb 2020 - ",
-            "Jul 2021",
-            "Iul 2021",
-            'Web Developer Internship',
-            "Web Developer Internship",
-            '<a href="http://interactbucuresti.ro/" target="_blank" class="linksiteuri" style="text-decoration: underline; color: black !important">Interact Bucharest</a>',
-            '<a href="http://interactbucuresti.ro/" target="_blank" class="linksiteuri" style="text-decoration: underline; color: black !important">Interact București</a>',
+        $unita = new CvItem(
+            "Dec 2002 - ",
+            "Dec 2002 - ",
+            "Nov 2004",
+            "Nov 2004",
+            'Agency Director',
+            "Agency Director",
+            'UNITA S.A.',
+            'UNITA S.A.',
+            "
+                   <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                   </p>
+                       ",
             '
-                            <p>I structured, designed and built the official website of Interact Bucharest, member of Rotary. I kept maintenaince of the website during the period.</p>
-                       ',
-            '
-                            <p>Am structurat, proiectat și construit site-ul oficial al Interact București, care aparține de Rotary și am păstrat mentenanța site-ului web.</p>
+                   <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                   </p>
                        '
         );
 
-        $revistaCaVaWebsite = new CvItem(
-            "Oct 2019 - ",
-            "Oct 2019 - ",
-            "ongoing",
-            "prezent",
-            "Web Developer Internship",
-            "Web Developer Internship",
-            '<a href="http://revista-cava.ro/" target="_blank" class="linksiteuri" style="text-decoration: underline; color: black !important">ÇaVa Website</a>',
-            '<a href="http://revista-cava.ro/" target="_blank" class="linksiteuri" style="text-decoration: underline; color: black !important">ÇaVa Website</a>',
+        $asirom = new CvItem(
+            "Apr 2000 - ",
+            "Apr 2000 - ",
+            "Apr 2001",
+            "Apr 2001",
+            "Branch Manager",
+            "Branch Manager",
+            'ASIROM S.A.',
+            'ASIROM S.A.',
             '
-                            <p>I structured, designed and built the official website of CaVa, the magazine of "Saint Sava" National College. In present I keep the maintenance of the website by posting new articles, updating details, making announcements, etc.</p>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
                        ',
             '
-                            <p> Am structurat, proiectat și construit site-ul oficial al CaVa, revista Colegiului Național „Sfântul Sava”. În prezent păstrez mentenanța site-ului web postând articole noi, actualizând detalii, efectuarea de anunțuri etc. </p>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
+                         '
+        );
+
+        $interamerican = new CvItem(
+            "Apr 2000 - ",
+            "Apr 2000 - ",
+            "Apr 2001",
+            "Apr 2001",
+            "Branch Manager",
+            "Branch Manager",
+            'ASIROM S.A. ',
+            'ASIROM S.A. ',
+            '
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
+                       ',
+            '
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
                          '
         );
 
 
-        $cv = array(
-            $github,
-            $topTheWhole,
-            $raduNicolaeWebsite,
-            $revistaCaVaWebsite,
-            $viviriaFestival,
-            $happyCampsWebsite,
-            $interactWebsite
-        );
-
-        return $cv;
-    }
-
-
-    public function getInternshipCv()
-    {
-
-
-        $jademyInternship = new cvItem(
-            "May 2020 - ",
-            "Mai 2020 - ",
-            "Oct 2021",
-            "Oct 2021",
-            "Trainer Internship",
-            "Trainer Internship",
-            '<span class="position"><a
-                                            href="https://edu.jademy.ro/wiki/doku.php/core:precourseweb:start"
-                                            target="_blank" class="linksiteuri"
-                                            style="color: black !important">Jademy - Oracle Silver Partner</a></span>',
-            '<span class="position"><a
-                                            href="https://edu.jademy.ro/wiki/doku.php/core:precourseweb:start"
-                                            target="_blank" class="linksiteuri"
-                                            style="color: black !important">Jademy - Oracle Silver Partner</a></span>',
-            '<p>I structured, created and implemented a 25 module front end course containg notions and exercises of Javascript, HTML and CSS for <b>Jademy - Oracle Silver Partner</b>. The course can be found <a href="https://edu.jademy.ro/wiki/doku.php/core:precourseweb:start"><u>here</u>.</a> I also participated as a trainer assistant at Java Courses.</p> ',
-
-
-            '<p> Am structurat, creat și implementat un curs de Front-End de 25 de module care conține noțiuni și exerciții de Javascript, HTML și CSS pentru <b> Jademy - Oracle Silver Partner </b>. Cursul poate fi găsit <a href="https://edu.jademy.ro/wiki/doku.php/core:precourseweb:start"><u>aici</u></a>. De asemenea, am participat ca trainer assistant la cursurile Java.</p>'
-        );
-
-        $cv = array($jademyInternship);
-
-        return $cv;
-    }
-
-
-    public function getRoboticsCv()
-    {
-        $autovortex = new CvItem(
-            "Oct 2019 - ",
-            "Oct 2019 - ",
-            "ongoing",
-            "prezent",
-            "<a href='https://autovortex.ro/' target='_blank' style='color:black;'>National Robotics Team Member</a>",
-            "<a href='https://autovortex.ro/' target='_blank' style='color:black;'>Membru al Echipei Naționale de Robotică Autovortex</a>",
-            "<a href='https://autovortex.ro/' target='_blank' style='color:black;'>Autovortex</a>",
-            "<a href='https://autovortex.ro/' target='_blank' style='color:black;'>Autovortex</a>",
+        $grupas = new CvItem(
+            "Aug 1999 - ",
+            "Aug 1999 - ",
+            "Mar 2000",
+            "Mar 2000",
+            "Director of the Life Insurance and Group Insurance Department",
+            "Director of the Life Insurance and Group Insurance Department",
+            'INTERAMERICAN ROMANIA INSURANCE COMPANY S.A. ',
+            'INTERAMERICAN ROMANIA INSURANCE COMPANY S.A. ',
             '
-                                    <p style="text-align: justify;"><a href="https://autovortex.ro/" target="_blank"><u>Autovortex</u></a> is the national robotics team,
-                                        representing Romania in one of the biggest international contest of robotics,
-                                        FIRST Tech Challenge.</p>
-                                    <p>
-                                        Principal activities: robot designing, construction and programming.
-                                    </p>
-
-                                    <p>
-                                        Earnt Awards:
-                                    </p>
-                                    <ul>
-                                        <li>1<sup>st</sup> place at FIRST Tech Challenge Russia 2021 - April 2021
-                                        </li>
-                                        <li>1<sup>st</sup> place at FIRST Tech Challenge Russia 2020 - February 2020
-                                        </li>
-                                        <li>1<sup>st</sup> place at FIRST Tech Challenge Russia 2019 - December 2019
-                                        </li>
-                                    </ul>
-            ',
-            '<p style="text-align: justify;">
-                                     <a href="https://autovortex.ro/" target="_blank"> <u> Autovortex </u> </a> este echipa națională de robotică ,
-                                        reprezentând România la unul dintre cele mai mari concursuri internaționale de robotică,
-                                        FIRST Tech Challenge. </p>
-                                    <p>
-                                        Activități principale: proiectarea, construcția și programarea robotului.
-                                    </p>
-
-                                    <p>
-                                        Premiile câștigate:
-                                    </p>
-                                    <ul>
-                                        <li> Locul I la FIRST Tech Challenge Rusia 2021 - aprilie 2021
-                                        </li>
-                                        <li>Locul I la FIRST Tech Challenge Rusia 2020 - februarie 2020
-                                        </li>
-                                        <li> Locul I la FIRST Tech Challenge Rusia 2019 - decembrie 2019
-                                        </li>
-                                    </ul>'
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
+                       ',
+            '
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
+                         '
         );
 
-        $ftcCamp = new CvItem(
-            "8 -",
-            "8 -",
-            "14 Jul 2019",
-            "14 Iul 2019",
-            "<a href='https://www.firstinspires.org/robotics/ftc' target='_blank' style='color:black;'>Participant at FTC summer camp</a>",
-            "<a href='https://www.firstinspires.org/robotics/ftc' target='_blank' style='color:black;'>Participant tabără de robotică FTC</a>",
-            "<a href='https://www.firstinspires.org/robotics/ftc' target='_blank' style='color:black;'>FIRST Tech Challenge</a>",
-            "<a href='https://www.firstinspires.org/robotics/ftc' target='_blank' style='color:black;'>FIRST Tech Challenge</a>",
-            '
-                 <p>I participated at the official FIRST Tech Challenge Summer Camp where I gained knowledge of PTC Creo, Java, Android Studio, robot designing and construction tactics.</p>
 
-            ',
-            '<p> Am participat la tabăra oficială de vară FIRST Tech Challenge, unde am dobândit cunoștiințe de proiectare, construcție și programare a robotului folosind PTC Creo, Java și Android Studio. </p>'
+        $economist = new CvItem(
+            "Jul 1997 - ",
+            "Jul 1997 - ",
+            "Jul 1999",
+            "Jul 1999",
+            "Economist",
+            "Economist",
+            'The Financial Assistance and Investment Company S.A.',
+            'The Financial Assistance and Investment Company S.A.',
+            '
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
+                       ',
+            '
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
+                         '
         );
 
-        $gammaRobotics = new CvItem(
-            "Oct 2018 - ",
-            "Oct 2018 - ",
-            "Oct 2019",
-            "Oct 2019",
-            "Team Leader",
-            "Lider de Echipă",
-            "Gamma Robotics",
-            "Gamma Robotics",
+        $sopas = new CvItem(
+            "Feb 1997 - ",
+            "Feb 1997 - ",
+            "Jun 1997",
+            "Jun 1997",
+            "President - General Manager",
+            "President - General Manager",
+            'SOPAS S.A. ',
+            'SOPAS S.A. ',
             '
-                <p>Gamma is my high school\'s robotics team and we participated at the international contest FIRST Tech Challenge.</p>
-                <p>I was team leader and driver during the season. We passed the regional stage and we competed against the best robotics teams in Romania in the national stage.</p>
-',
-            '<p> Gamma este echipa de robotică a liceului meu, care a participat la concursul internațional FIRST Tech Challenge. </p>
-                 <p> Am fost lider de echipă și driver în timpul sezonului. Am trecut de etapa regională și am concurat împotriva celor mai bune echipe de robotică din România la etapa națională. </p>'
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
+                       ',
+            '
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
+                         '
+        );
+
+
+        $referent = new CvItem(
+            "Nov 1994 - ",
+            "Nov 1994 - ",
+            "Jan 1999",
+            "Jan 1999",
+            "Referent, financial analyst, head of FPAP department",
+            "Referent, financial analyst, head of FPAP department",
+            'Private Accumulation and Pensions Fund - Financial Assistance Company and Investments S.A.',
+            'Private Accumulation and Pensions Fund - Financial Assistance Company and Investments S.A.',
+            '
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
+                       ',
+            '
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
+                         '
+        );
+
+
+        $romtyre = new CvItem(
+            "Aug 1994 - ",
+            "Aug 1994 - ",
+            "Oct 1994",
+            "Oct 1994",
+            "Trainee economist ",
+            "Trainee economist ",
+            'Romtyre and Rubber S.A.',
+            'Romtyre and Rubber S.A.',
+            '
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
+                       ',
+            '
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
+                         '
         );
 
         $cv = array(
-            $autovortex,
-            $ftcCamp,
-            $gammaRobotics
+            $grawe,
+            $generali,
+            $eureko,
+            $bcr,
+            $broker,
+            $unita,
+            $grupas,
+            $asirom,
+            $interamerican,
+            $economist,
+            $sopas,
+            $referent,
+            $romtyre
         );
 
         return $cv;
     }
 
-
-    public function getCompetitionsCv()
-    {
-        $ftc2019 = new CvItem(
-            "",
-            "",
-            "",
-            "",
-            "1<sup>st</sup> place",
-            "Locul 1",
-            "FIRST Tech Challenge Russia - Dec 2019",
-            "FIRST Tech Challenge Russia - Dec 2019",
-            "<br><br>",
-            "<br><br>"
-        );
-
-        $ftc2020 = new CvItem(
-            "",
-            "",
-            "",
-            "",
-            "1<sup>st</sup> place",
-            "Locul 1",
-            "FTC Russia Robotics from Siberia  - Feb 2020",
-            "FTC Russia Robotics din Siberia - Feb 2020",
-            "<br><br>",
-            "<br><br>"
-        );
-
-        $ftc2021 = new CvItem(
-            "",
-            "",
-            "",
-            "",
-            "1<sup>st</sup> place",
-            "Locul 1",
-            "FIRST Russia Robotics - Apr 2021",
-            "FIRST Russia Robotics - Apr 2021",
-            "<br><br>",
-            "<br><br>"
-        );
-
-        $roboticsContest = new CvItem(
-            "",
-            "",
-            "",
-            "",
-            "Robotics <span>&nbsp;</span>| <span>&nbsp;</span> Special Prize",
-            "Robotică <span>&nbsp;</span> | <span>&nbsp;</span> Premiul Special",
-            "Sciences and Technologies Ploiesti",
-            "Științe și Technologii Ploiești",
-            "<br><br>",
-            "<br><br>"
-        );
-
-
-        $cv = array(
-            $ftc2019,
-            $ftc2020,
-            $ftc2021,
-            $roboticsContest,
-        );
-
-        return $cv;
-    }
-
-    public function getVolunteeringCv()
-    {
-        $happyCampsFinancial = new CvItem(
-            "Mar 2020 - ",
-            "Mar 2020 - ",
-            "Sep 2020",
-            "Sep 2020",
-            "<a href='https://www.happycamps.ro/' target='_blank' style='color:black;'>Financial Manager</a>",
-            "<a href='https://www.happycamps.ro/' target='_blank' style='color:black;'>Manager Financiar</a>",
-            "<a href='https://www.happycamps.ro/' target='_blank' style='color:black;'>Happy Camps</a>",
-            "<a href='https://www.happycamps.ro/' target='_blank' style='color:black;'>Happy Camps</a>",
-            '
-                    <p>Buget, funding and sponsorship management for Happy Camps.</p>
-                ',
-            '
-                    <p>Managementul bugetului, finanțărilor și sponsorizărilor pentru Happy Camps.</p>
-                '
-        );
-
-        $corporateGamesFinancial = new CvItem(
-            'Apr 2020 - ',
-            'Apr 2020 - ',
-            "Sep 2020",
-            "Sep 2020",
-            "<a href='https://www.corporate-games.ro/ro' target='_blank' style='color:black;'>Sales Agent</a>",
-            "<a href='https://www.corporate-games.ro/ro' target='_blank' style='color:black;'>Agent de vânzari</a>",
-            "<a href='https://www.corporate-games.ro/ro' target='_blank' style='color:black;'>Corporate Games Romania</a>",
-            "<a href='https://www.corporate-games.ro/ro' target='_blank' style='color:black;'>Corporate Games Romania</a>",
-            "
-                    <p>I convinced the general managers of the greatest corporations from Romania to take part of Corporate Games together with their subordinates.</p>
-                ",
-            "
-                    <p>Task-ul meu era de a convinge directorii generali ai celor mai mari corporații din România să ia parte la Corporate Games alături de subordonații lor.</p>
-                "
-        );
-
-        $lazarMun = new CvItem(
-            "14 - ",
-            "14 - ",
-            "17 Feb 2020",
-            "17 Feb 2020",
-            "Staff member at Lazăr MUN",
-            "Membru Staff Lazăr MUN",
-            "United Nations",
-            "United Nations",
-            '
-                        <p style="text-align: justify;">Staff member at Model United Nations Conference, held in "Gheorghe Lazar" National College from Bucharest.</p>
-                    ',
-            '
-                        <p style="text-align: justify;">Am ocupat funcția de voluntar la conferința model organizată de United Nations, desfășurată în Colegiul Național "Gheorghe Lazăr" din Bucureşti.</p>
-                    '
-        );
-
-        $redCross = new CvItem(
-            "Jan 2020 - ",
-            "Ian 2020 - ",
-            "Apr 2020",
-            "Apr 2020",
-            "<a href='https://www.icrc.org/' target='_blank' style='color:black;'>Volunteer</a>",
-            "<a href='https://www.icrc.org/' target='_blank' style='color:black;'>Voluntar</a>",
-            "<a href='https://www.icrc.org/' target='_blank' style='color:black;'>Red Cross</a>",
-            "<a href='https://www.icrc.org/' target='_blank' style='color:black;'>Crucea Roșie</a>",
-            '
-                        <p style="text-align: justify;">I volunteered at two different editions of Food Bank and I attended a few First Aid classes.</p>
-                    ',
-            '
-                        <p>Am fost voluntar la două ediții ale Băncii de Alimente și am participat la câteva cursuri de prim ajutor.</p>
-                    '
-        );
-
-        $cg2019 = new CvItem(
-            "15 - ",
-            "15 - ",
-            "16 Jun 2019",
-            "16 Iun 2019",
-            "<a href='https://www.corporate-games.ro/ro' target='_blank' style='color:black;'>Cycling Competition Participant</a>",
-            "<a href='https://www.corporate-games.ro/ro' target='_blank' style='color:black;'>Concurent Ciclism</a>",
-            "<a href='https://www.corporate-games.ro/ro' target='_blank' style='color:black;'>Corporate Games</a>",
-            "<a href='https://www.corporate-games.ro/ro' target='_blank' style='color:black;'>Corporate Games</a>",
-            '
-                        <p style="text-align: justify;">I have managed to gain the second place in cycling at one of the biggest international competitions, Corporate Games.
-                    ',
-            '
-                        <p style="text-align: justify;">Am obținut locul al doilea la ciclism la una dintre cele mai mari competiții internaționale, Corporate Games.
-                    '
-        );
-
-        $happyCampsVolunteer = new CvItem(
-            "Apr 2019 - ",
-            "Apr 2019 - ",
-            "ongoing",
-            "prezent",
-            "<a href='https://www.happycamps.ro/' target='_blank' style='color:black;'>Volunteer</a>",
-            "<a href='https://www.happycamps.ro/' target='_blank' style='color:black;'>Voluntar</a>",
-            "<a href='https://www.happycamps.ro/' target='_blank' style='color:black;'>Happy Camps</a>",
-            "<a href='https://www.happycamps.ro/' target='_blank' style='color:black;'>Happy Camps</a>",
-            "
-                        <p>I occupied the position of financial manager where I managed budgets, sponsorships and fundings for the organisation.</p> 
-                        <p>I also developed the club's website, which can be found <a href='https://happycamps.club' target='_blank'>here</a>.</p>
-                        <p>I also volunteered as a trainer in several summer and winter children camps where I improved my communication abilities, as well as my coordination skills.</p>
-                    ",
-            "
-                        <p>Am ocupat funcția de manager financiar în care am gestionat bugete, sponsorizări și finanțări pentru organizație.</p> 
-                        <p>De asemenea, am dezvoltat site-ul clubului, care poate fi găsit <a href='https://happycamps.club' target='_blank'> aici </a>.</p>
-                        <p>În plus, am fost trainer în mai multe tabere de vară și de iarnă pentru copii, unde mi-am îmbunătățit abilitățile de comunicare, precum și abilitățile de coordonare.</p>                    
-                    "
-        );
-
-        $euDialogue = new CvItem(
-            "16 Oct 2020",
-            "16 Oct 2020",
-            "",
-            "",
-            'Participant at "The dialogue of the European Union with young people"',
-            'Participant la "Dialogul Uniunii Europene cu tinerii"',
-            "European Union",
-            "Uniunea Europeană",
-            '
-                        <p>I have participated at the local consultation within the Seventh Cycle of the European Union Dialogue with young people, within the National College "Saint Sava". We\'ve discussed about the main problems in the European Union and seek solutions for them. The conclusions were recorded and sent to European Union\'s parliament as "the voice of the young generation".</p>
-                    ',
-            '
-                        <p>Am participat la consultarea locală din cadrul celui de-al Șaptelea Ciclu al Dialogului Uniunii Europene cu Tinerii, organizată în Colegiul Național "Sfântul Sava".</p>
-                    '
-        );
-
-        $cv = array(
-            $happyCampsVolunteer,
-            $happyCampsFinancial,
-            $corporateGamesFinancial,
-            $lazarMun,
-            $redCross,
-            $euDialogue
-        );
-
-        return $cv;
-
-    }
-
-    public function getOtherExperienceCv()
-    {
-
-        $kidsParliament = new CvItem(
-            "07 Jun 2019",
-            "07 Iun 2019",
-            "",
-            "",
-            'Participant "Kids Parliament"',
-            'Participant "Parlamentul Copiilor"',
-            'The Chamber of Deputies',
-            'Palatul Parlamentului - Camera Deputaților',
-            '<p>I have participated as a deputy at a model conference in which we discussed the introduction of a few laws regarding the protection of the environment.</p>',
-            '<p>Alături de echipa mea, am reprezentat Colegiul Național "Sfântul Sava" în "Parlamentul Copiilor". Am dezbătut diferite probleme ale țării noastre, precum și modalități de rezolvare ale acestora.</p>'
-        );
-
-//        $cv = array(
-//            $happyCampsFinancial,
-//            $corporateGamesFinancial,
-//            $lazarMun,
-//            $redCross,
-//            $euDialogue,
-//            $autovortex,
-//            $ftcCamp,
-//            $cg2019,
-//            $kidsParliament,
-//            $roboticsContest,
-//            $happyCampsVolunteer,
-//            $gammaRobotics
-//        );
-//
-//        return $cv;
-
-    }
 
 }

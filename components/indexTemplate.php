@@ -8,6 +8,8 @@
 
 <?php include "components/AboutMe.php" ?>
 
+<?php include "components/Companies.php" ?>
+
 <?php include "components/cv/CvMain.php" ?>
 
 <?php include "components/services/Services.php" ?>

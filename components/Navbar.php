@@ -6,7 +6,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target scrolled awake"
      id="ftco-navbar">
     <div class="container">
-        <a class="navbar-brand" href="<?= $navbar[6][$lang] ?>"><span>R</span>adu Nicolae</a>
+        <a class="navbar-brand" href="<?= $navbar[6][$lang] ?>"><span>V</span>iorel Nicolae</a>
         <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse"
                 data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="oi oi-menu"></span> <?= $navbar[5][$lang] ?>

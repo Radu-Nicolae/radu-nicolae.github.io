@@ -6,7 +6,7 @@
             <div class="col-lg-8 col-md-6 ftco-animate d-flex align-items-center fadeInUp ftco-animated">
                 <div class="text text-center">
                     <span class="subheading"><?= $iam[0][$lang] ?> </span>
-                    <h1>Radu Nicolae</h1>
+                    <h1>Viorel Nicolae</h1>
                     <h2 style="font-size: 2rem;"> <?= $iam[1][$lang] ?>
                         <span
                                 class="txt-rotate"

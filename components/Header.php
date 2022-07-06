@@ -2,12 +2,12 @@
 
 <html>
 <head>
-    <title>Radu Nicolae - personal Profile</title>
+    <title>Viorel Nicolae - personal Profile</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords"
-          content="Radu Nicolae, Nicolae Radu, Radu Nicolae Web Developer, Nicolae Radu Web Developer, Radu Nicolae Web, Nicolae Radu Web, Radu Nicolae programator, Nicolae Radu programator">
-    <meta name="description" content="Hello, I am Radu Nicolae and this is my personal website!">
+          content="Viorel Nicolae, Viorel Nicolae Asigurari, Viorel Nicolae Insurance">
+    <meta name="description" content="Hello, I am Viorel Nicolae and this is my personal website!">
 
     <link rel="icon" href="logo.png" type="image/png">
 

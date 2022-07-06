@@ -59,10 +59,10 @@
                     <h2 class="ftco-heading-2"><?=$footer[10][$lang]?></h2>
                     <div class="block-23 mb-3">
                         <ul>
-                            <li><a href="tel://+40726066744"><span class="icon icon-phone"></span><span class="text">+40726066744</span></a>
+                            <li><a href="tel://+40722715121"><span class="icon icon-phone"></span><span class="text">+40722715121</span></a>
                             </li>
-                            <li><a href="mailto:mail@radu-nicolae.com"><span class="icon icon-envelope"></span><span
-                                        class="text">mail@radu-nicolae.com</span></a></li>
+                            <li><a href="mailto:viorelnicolae@yahoo.com"><span class="icon icon-envelope"></span><span
+                                        class="text">viorelnicolae@yahoo.com</span></a></li>
                         </ul>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                 <p>
                     Copyright ©
                     <script>document.write(new Date().getFullYear());</script>
-                    All rights reserved | Radu Nicolae</a>
+                    All rights reserved | Viorel Nicolae</a>
                 </p>
             </div>
         </div>
