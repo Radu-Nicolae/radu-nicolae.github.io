@@ -191,6 +191,27 @@ Methods and techniques for covering them</p>
                        '
         );
 
+        $interamerican = new CvItem(
+            "Aug 1999 - ",
+            "Aug 1999 - ",
+            "Mar 2000",
+            "Mar 2000",
+            "Director of the Life Insurance and Group Insurance Department",
+            "Director of the Life Insurance and Group Insurance Department",
+            'INTERAMERICAN ROMANIA INSURANCE COMPANY S.A. ',
+            'INTERAMERICAN ROMANIA INSURANCE COMPANY S.A. ',
+            '
+                    <p>
+                                            negotiating and concluding contracts with insurance brokers<b> |</b> recruiting branch staff<b> |</b> recruitment of branch managers and agencies in the counties<b> |</b> developing partnerships with brokers in the area<b> |</b> monitoring and direct support to the sales force in case of more complex insurances<b> |</b> direct negotiation of large insurance contracts (conditions, quotations, commissions)                    </p>
+
+                       ',
+            '
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+                    </p>
+                         '
+        );
+
         $asirom = new CvItem(
             "Apr 2000 - ",
             "Apr 2000 - ",
@@ -211,47 +232,28 @@ Methods and techniques for covering them</p>
                          '
         );
 
-        $interamerican = new CvItem(
-            "Apr 2000 - ",
-            "Apr 2000 - ",
-            "Apr 2001",
-            "Apr 2001",
-            "Branch Manager",
-            "Branch Manager",
-            'ASIROM S.A. ',
-            'ASIROM S.A. ',
-            '
-                    <p>
-                        coordinating the activity of the Life Insurance Department<b> |</b> coordinating the activity of the Group Insurance Department<b> |</b> development of the agency network<b> |</b> recruitment, hiring and staff training (consultants, unit managers, agency directors and headquarters)<b> |</b> activities related to the launch of new types of life insurance, design of financing program for insurance consultants, training on “products”, elaboration of training materials (in collaboration), elaboration of the business plan for new types of life insurance<b> |</b> elaboration of the system of payment of insurance premiums and negotiation of the contract with the bank                    </p>
-                       ',
-            '
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                    </p>
-                         '
-        );
-
-
         $grupas = new CvItem(
-            "Aug 1999 - ",
-            "Aug 1999 - ",
-            "Mar 2000",
-            "Mar 2000",
-            "Director of the Life Insurance and Group Insurance Department",
-            "Director of the Life Insurance and Group Insurance Department",
-            'INTERAMERICAN ROMANIA INSURANCE COMPANY S.A. ',
-            'INTERAMERICAN ROMANIA INSURANCE COMPANY S.A. ',
+            "May 2001 - ",
+            "Mai 2001 - ",
+            "Nov 2002",
+            "Nov 2002",
+            "Branch Manager, Area Manager (20 districts)",
+            "Branch Manager, Area Manager (20 districts)",
+            'GRUP AS S.A.',
+            'GRUP AS S.A.',
             '
                     <p>
-                                            negotiating and concluding contracts with insurance brokers<b> |</b> recruiting branch staff<b> |</b> recruitment of branch managers and agencies in the counties<b> |</b> developing partnerships with brokers in the area<b> |</b> monitoring and direct support to the sales force in case of more complex insurances<b> |</b> direct negotiation of large insurance contracts (conditions, quotations, commissions)                    </p>
-
-                       ',
+                        negotiating and concluding contracts with insurance brokers<b> |</b> recruiting branch staff<b> |</b> recruitment of branch managers and agencies in the counties<b> |</b> developing partnerships with brokers in the area<b> |</b> monitoring and direct support to the sales force in case of more complex insurances<b> |</b> direct negotiation of large insurance contracts (conditions, quotations,
+commissions)                       ',
             '
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
                     </p>
                          '
         );
+
+
+
 
 
         $economist = new CvItem(
