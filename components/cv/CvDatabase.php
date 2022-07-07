@@ -72,7 +72,7 @@ Methods and techniques for covering them</p>
 
             '
                 <p>
-                    - negotiating and concluding contracts with insurance brokers; developing partnerships with insurance brokers; analysis and negotiation of more complex requests for quotation; (conditions, quotations, discounts, commissions)
+                    negotiating and concluding contracts with insurance brokers<b> |</b> developing partnerships with insurance brokers<b> |</b> analysis and negotiation of more complex requests for quotation<b> |</b> (conditions, quotations, discounts, commissions)
                 </p>
             ',
 
@@ -94,7 +94,7 @@ Methods and techniques for covering them</p>
             'FATA Asigurari S.A. – Generali Group',
             '
                    <p>
-                        - elaboration of the sales strategy; recruitment of branch managers; negotiating and concluding contracts with insurance brokers; development of franchise partnerships; developing the agricultural insurance portfolio through direct; negotiation with large farmers                    </p>
+                        elaboration of the sales strategy<b> |</b> recruitment of branch managers<b> |</b> negotiating and concluding contracts with insurance brokers<b> |</b> development of franchise partnerships<b> |</b> developing the agricultural insurance portfolio through direct<b> |</b> negotiation with large farmers                    </p>
             ',
             '
                     <p>
@@ -116,7 +116,7 @@ Methods and techniques for covering them</p>
 
             '
                 <p>
-                    - developing the sales network by recruiting agency directors; eveloping partnerships with insurance brokers; monitoring the sales network in order to achieve the objectives on life; insurance, non-life insurance and the 2nd pension pillar;                </p>      
+                    developing the sales network by recruiting agency directors<b> |</b> eveloping partnerships with insurance brokers<b> |</b> monitoring the sales network in order to achieve the objectives on life<b> |</b> insurance, non-life insurance and the 2nd pension pillar<b> |</b>                </p>      
             ',
 
             '
@@ -138,9 +138,7 @@ Methods and techniques for covering them</p>
             'BCR ASIGURARI S.A. ',
 
             '
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                </p>
+                <p> recruitment of branch managers and agencies<b> |</b> recruitment and development of partnerships with insurance brokers<b> |</b> monitoring network in order to achieve sales objectives                </p>
                     ',
 
             '
@@ -162,7 +160,6 @@ Methods and techniques for covering them</p>
 
             '
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
                 </p>
                     ',
 
@@ -184,8 +181,8 @@ Methods and techniques for covering them</p>
             'UNITA S.A.',
             "
                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                   </p>
+                        negotiating and concluding contracts with insurance brokers<b> |</b> recruitment of agency staff and insurance agents<b> |</b> monitoring the activity of the agency in order to achieve the sales objectives
+                  </p>
                        ",
             '
                    <p>
@@ -205,9 +202,8 @@ Methods and techniques for covering them</p>
             'ASIROM S.A.',
             '
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                    </p>
-                       ',
+                    developing partnerships with insurance brokers<b> |</b> recruitment of own sales force (agency directors, insurance inspectors)<b> |</b> training life insurance and non-life insurance<b> |</b> monitoring the activity of the branch in order to achieve the sales objectives
+                    </p>                       ',
             '
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
@@ -226,8 +222,7 @@ Methods and techniques for covering them</p>
             'ASIROM S.A. ',
             '
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                    </p>
+                        coordinating the activity of the Life Insurance Department<b> |</b> coordinating the activity of the Group Insurance Department<b> |</b> development of the agency network<b> |</b> recruitment, hiring and staff training (consultants, unit managers, agency directors and headquarters)<b> |</b> activities related to the launch of new types of life insurance, design of financing program for insurance consultants, training on “products”, elaboration of training materials (in collaboration), elaboration of the business plan for new types of life insurance<b> |</b> elaboration of the system of payment of insurance premiums and negotiation of the contract with the bank                    </p>
                        ',
             '
                     <p>
@@ -248,8 +243,8 @@ Methods and techniques for covering them</p>
             'INTERAMERICAN ROMANIA INSURANCE COMPANY S.A. ',
             '
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                    </p>
+                                            negotiating and concluding contracts with insurance brokers<b> |</b> recruiting branch staff<b> |</b> recruitment of branch managers and agencies in the counties<b> |</b> developing partnerships with brokers in the area<b> |</b> monitoring and direct support to the sales force in case of more complex insurances<b> |</b> direct negotiation of large insurance contracts (conditions, quotations, commissions)                    </p>
+
                        ',
             '
                     <p>
@@ -270,8 +265,7 @@ Methods and techniques for covering them</p>
             'The Financial Assistance and Investment Company S.A.',
             '
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                    </p>
+                        monitoring the development of financing contracts for individuals<b> |</b> negotiation and conclusion of bank deposit contracts<b> |</b> study of the money and capital market and elaboration of syntheses regarding the main indicators                    </p>
                        ',
             '
                     <p>
@@ -291,7 +285,6 @@ Methods and techniques for covering them</p>
             'SOPAS S.A. ',
             '
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
                     </p>
                        ',
             '
@@ -312,9 +305,7 @@ Methods and techniques for covering them</p>
             'Private Accumulation and Pensions Fund - Financial Assistance Company and Investments S.A.',
             'Private Accumulation and Pensions Fund - Financial Assistance Company and Investments S.A.',
             '
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                    </p>
+                    <p> public relations<b> |</b> relations with the bank (contracts, account openings, account statements)<b> |</b> negotiating, concluding and monitoring the development of contracts with distribution companies<b> |</b> negotiation and conclusion of bank deposit contracts<b> |</b> concluding contracts for sale - purchase of securities (shares, treasury certificates, participation securities)<b> |</b> study of the money market and the capital market and elaboration of syntheses regarding the main indicators: BUBID, BUBOR, official discount tax, refinancing interest, inflation rate, interest rates charged by banks on different terms, quotation of shares on the Stock Exchange and on RASDAQ, mutual fund shares and capitalization, through investments, of the opportunities offered by these two markets<b> |</b> elaboration and implementation of the investment policy<b> |</b> coordination of the Private Accumulation Fund and Pensions department                    </p>
                        ',
             '
                     <p>
@@ -335,8 +326,7 @@ Methods and techniques for covering them</p>
             'Romtyre and Rubber S.A.',
             '
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                    </p>
+                        contacting potential external partners by launching offers through economic advisers of Romanian embassies and consulates abroad<b> |</b> negotiation of export prices (within the limits imposed by management)<b> |</b> negotiation and conclusion of international transport contracts (bill of lading, consignment note)<b> |</b> agreeing, with the external partner, the conditions of payment (letter of credit or documentary collection) and the conditions of delivery of the goods<b> |</b> sending the export documents to the bank in order to collect the export<b> |</b> monthly preparation of the situation of the operations carried out in the previous month and their presentation to the president of the company                    </p>
                        ',
             '
                     <p>
