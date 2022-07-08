@@ -116,7 +116,7 @@ Methods and techniques for covering them</p>
 
             '
                 <p>
-                    developing the sales network by recruiting agency directors<b> |</b> eveloping partnerships with insurance brokers<b> |</b> monitoring the sales network in order to achieve the objectives on life<b> |</b> insurance, non-life insurance and the 2nd pension pillar<b> |</b>                </p>      
+                    developing the sales network by recruiting agency directors<b> |</b> eveloping partnerships with insurance brokers<b> |</b> monitoring the sales network in order to achieve the objectives on life<b> |</b> insurance, non-life insurance and the 2nd pension pillar                </p>      
             ',
 
             '
