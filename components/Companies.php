@@ -23,7 +23,7 @@
                 <a href="#" class="partner"><img src="companies/generali.png" width="70%" height="50%" class="img-fluid" alt="Generali" data-pagespeed-url-hash="2826290092" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
             </div>
             <div class="col-sm ftco-animate fadeInUp ftco-animated">
-                <a href="#" class="partner"><img src="companies/eureko.png" class="img-fluid" alt="Eureko" data-pagespeed-url-hash="3120790013" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+                <a href="#" class="partner"><img src="companies/eureko.png" height="150%" class="img-fluid" alt="Eureko" data-pagespeed-url-hash="3120790013" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
             </div>
             <div class="col-sm ftco-animate fadeInUp ftco-animated">
                 <a href="#" class="partner"><img src="companies/bcr.png" class="img-fluid" alt="BCR" data-pagespeed-url-hash="3415289934" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
