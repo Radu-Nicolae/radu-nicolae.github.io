@@ -130,8 +130,8 @@ Methods and techniques for covering them</p>
         $bcr = new CvItem(
             "Sep 2005 - ",
             "Sep 2005 - ",
-            "Jun 2010",
-            "Jun 2010",
+            "Jun 2007",
+            "Jun 2007",
             "Project manager",
             "Project manager",
             'BCR ASIGURARI S.A. ',
