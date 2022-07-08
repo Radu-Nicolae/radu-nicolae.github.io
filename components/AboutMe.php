@@ -42,7 +42,7 @@
 <!--                        <p><a href="CV-RaduNicolae.pdf" class="btn btn-primary py-3 px-3" download>Download CV</a></p>-->
                         <div style="display: flex;">
                             <p style="padding-right: 0.5rem"><a href="CV-ViorelNicolae-English.pdf" class="btn btn-primary py-3 px-3" download>Download CV</a></p>
-                            <p><a href="https://www.linkedin.com/in/radunicolae-dev/" class="btn btn-primary"><span class="ion-logo-linkedin" style="font-size: 200%; padding-left: 0.1rem; color: white !important;"></span></a></p>
+                            <p><a href="https://www.linkedin.com/in/viorel-nicolae-26885314" class="btn btn-primary"><span class="ion-logo-linkedin" style="font-size: 200%; padding-left: 0.1rem; color: white !important;"></span></a></p>
                         </div>
 
                     </div>
