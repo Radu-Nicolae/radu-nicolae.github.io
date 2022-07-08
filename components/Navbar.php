@@ -17,7 +17,6 @@
                 <li class="nav-item"><a href="#home-section" class="nav-link active"><span> <?= $navbar[0][$lang] ?> </span></a></li>
                 <li class="nav-item"><a href="#about-section" class="nav-link"><span> <?= $navbar[1][$lang] ?> </span></a></li>
                 <li class="nav-item"><a href="#resume-section" class="nav-link"><span> <?= $navbar[2][$lang] ?> </span></a></li>
-                <li class="nav-item"><a href="#projects-section" class="nav-link"><span> <?= $navbar[3][$lang] ?> </span></a></li>
                 <li class="nav-item"><a href="#contact-section" class="nav-link"><span> <?= $navbar[4][$lang] ?> </span></a></li>
                 <li class="nav-item"><a href="https://radu-nicolae.com" class="nav-link"><img src="ukFlag.jpeg"
                                                                                 class="flag-image flag-left"></a></li>

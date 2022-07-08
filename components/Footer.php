@@ -5,11 +5,7 @@
 
 <footer class="ftco-footer ftco-section">
     <div class="container">
-        <div class="row mb-5">
 
-
-            
-        </div>
         <div class="row">
             <div class="col-md-12 text-center">
 
@@ -17,6 +13,11 @@
                     Copyright ©
                     <script>document.write(new Date().getFullYear());</script>
                     All rights reserved | Viorel Nicolae</a>
+                </p>
+
+                <br>
+                <p>
+                    Website developed by <a href="https://radu-nicolae.com" style="text-decoration: underline; color: #b35900 !important; font-weight: 400 !important;">Radu Nicolae</a>
                 </p>
             </div>
         </div>
