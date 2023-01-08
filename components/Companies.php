@@ -2,7 +2,15 @@
 ?>
 
 <section class="ftco-section ftco-partner">
-    <div class="container">
+    <style>
+@media (max-width: 991px){
+    .companies-logos{
+        display: none;
+    }
+}
+    </style>
+
+    <div class="container companies-logos">
         <div class="row">
             <div class="col-sm ftco-animate fadeInUp ftco-animated">
                 <a href="#" class="partner"><script data-pagespeed-no-defer="">//<![CDATA[

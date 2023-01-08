@@ -67,39 +67,48 @@ Methods and techniques for covering them</p>
             "prezent",
             'Broker Business Development Director',
             'Broker Business Development Director',
-            "<u>Grawe Romania S.A.</u>",
-            "<u>Grawe Romania S.A.</u>",
+            "Grawe Romania S.A.",
+            "Grawe Romania S.A.",
 
             '
                 <p>
-                    negotiating and concluding contracts with insurance brokers<b> |</b> developing partnerships with insurance brokers<b> |</b> analysis and negotiation of more complex requests for quotation<b> |</b> (conditions, quotations, discounts, commissions)
-                </p>
+- negotiating and concluding contracts with insurance brokers <br>
+- developing partnerships with insurance brokers<br>
+- analysis and negotiation of more complex requests for quotation (conditions, quotations, discounts, commissions)                </p>
             ',
 
             '
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                </p>
+- negocierea si incheierea contractelor cu brokerii de asigurare<br>
+- repartizarea brokerilor catre agentiile Grawe spre administrare directa<br>
+- dezvoltarea parteneriatelor cu brokerii de asigurare<br>
+- analiza si negocierea cererilor de oferta complexe (conditii, cotatii, reduceri, comisioane)                </p>
             '
         );
 
         $generali = new CvItem(
-            "Aug 2010 - ",
-            "Aug 2010 - ",
-            "Sep 2017",
-            "Sep 2017",
+            "Oct 2010 - ",
+            "Oct 2010 - ",
+            "Aug 2017",
+            "Aug 2017",
             "National Sales Director",
             "National Sales Director",
             'FATA Asigurari S.A. – Generali Group',
             'FATA Asigurari S.A. – Generali Group',
             '
                    <p>
-                        elaboration of the sales strategy<b> |</b> recruitment of branch managers<b> |</b> negotiating and concluding contracts with insurance brokers<b> |</b> development of franchise partnerships<b> |</b> developing the agricultural insurance portfolio through direct<b> |</b> negotiation with large farmers                    </p>
-            ',
+- elaboration of the sales strategy <br>
+- recruitment of branch managers <br>
+- negotiating and concluding contracts with insurance brokers<br> 
+- development of franchise partnerships <br>
+- developing the agricultural insurance portfolio through direct negotiation with large farmers            ',
             '
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                    </p>
+- intocmirea strategiei de vanzari<br>
+- recrutarea de directori de sucursale<br>
+- negocierea si incheierea contractelor cu brokerii de asigurare<br>
+- dezvoltarea de parteneriate de tip franciza<br>
+- dezvoltarea portofoliului de asigurari agricole prin negocierea directa cu fermierii mari                    </p>
             '
 
         );
@@ -107,22 +116,27 @@ Methods and techniques for covering them</p>
         $eureko = new CvItem(
             "Sep 2007 - ",
             "Sep 2007 - ",
-            "Jul 2010",
-            "Jul 2010",
+            "Aug 2010",
+            "Aug 2010",
             "Regional director",
             "Regional director",
-            'EUREKO ROMANIA INSURANCE COMPANY S.A. ',
-            'EUREKO ROMANIA INSURANCE COMPANY S.A. ',
+            'EUREKO Romania Insurance Company S.A. ',
+            'EUREKO Romania Insurance Company S.A. ',
 
             '
                 <p>
-                    developing the sales network by recruiting agency directors<b> |</b> eveloping partnerships with insurance brokers<b> |</b> monitoring the sales network in order to achieve the objectives on life<b> |</b> insurance, non-life insurance and the 2nd pension pillar                </p>      
+- developing the sales network by recruiting agency directors <br>
+- developing partnerships with insurance brokers <br>
+- monitoring sales network for achieving the objectives on life<br> 
+- insurance, non-life insurance and the 2nd pension pillar
+</p>
             ',
 
             '
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                </p>
+- dezvoltarea retelei de vanzari prin recrutarea de directori de agentie<br>
+- dezvoltarea parteneriatelor cu brokerii de asigurare<br>
+- monitorizarea retelei de vanzari in vederea atingerii obiectivelor pe asigurarile de viata, asigurarile generale si pilonul 2 pensii                </p>
             '
         );
 
@@ -130,33 +144,41 @@ Methods and techniques for covering them</p>
         $bcr = new CvItem(
             "Sep 2005 - ",
             "Sep 2005 - ",
-            "Jun 2007",
-            "Jun 2007",
+            "Sep 2007",
+            "Sep 2007",
             "Project manager",
             "Project manager",
-            'BCR ASIGURARI S.A. ',
-            'BCR ASIGURARI S.A. ',
+            'BCR Asigurari S.A. ',
+            'BCR Asigurari S.A. ',
 
             '
-                <p> recruitment of branch managers and agencies<b> |</b> recruitment and development of partnerships with insurance brokers<b> |</b> monitoring network in order to achieve sales objectives                </p>
+                <p> 
+- elaboration of the sales strategy <br>
+- recruitment of branch managers <br>
+- negotiating and concluding contracts with insurance brokers<br> 
+- development of franchise partnerships <br>
+- developing the agricultural insurance portfolio through direct<br> 
+- negotiation with large farmers                
+</p>
                     ',
 
             '
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                </p>
+- recrutarea de directori de sucursale si agentii<br>
+- recrutarea si dezvoltarea parteneriatelor cu brokerii de asigurare<br>
+- monitorizarea retelei proprii in vederea atingerii obiectivelor de vanzare                </p>
                 '
         );
 
         $broker = new CvItem(
             "Dec 2004 - ",
             "Dec 2004 - ",
-            "Aug 2005",
-            "Aug 2005",
+            "Sep 2005",
+            "Sep 2005",
+            "Chief Executive Officer",
             "President - General Manager",
-            "President - General Manager",
-            'PARTENER – BROKER DE ASIGURARE S.A.',
-            'PARTENER – BROKER DE ASIGURARE S.A.',
+            'Partener - Broker de Asigurare S.A.',
+            'Partener - Broker de Asigurare S.A.',
 
             '
                 <p>
@@ -165,7 +187,6 @@ Methods and techniques for covering them</p>
 
             '
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
                 </p>
                     '
         );
@@ -173,41 +194,54 @@ Methods and techniques for covering them</p>
         $unita = new CvItem(
             "Dec 2002 - ",
             "Dec 2002 - ",
-            "Nov 2004",
-            "Nov 2004",
+            "Dec 2004",
+            "Dec 2004",
             'Agency Director',
             "Agency Director",
-            'UNITA S.A.',
-            'UNITA S.A.',
+            'UNITA Insurance Company S.A.',
+            'UNITA Insurance Company S.A.',
             "
                    <p>
-                        negotiating and concluding contracts with insurance brokers<b> |</b> recruitment of agency staff and insurance agents<b> |</b> monitoring the activity of the agency in order to achieve the sales objectives
+- negotiating and concluding contracts with insurance brokers <br>
+- recruitment of agency staff and insurance agents <br>
+- monitoring the activity of the agency in order to achieve the sales objectives
                   </p>
                        ",
             '
                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+- negocierea si incheierea contractelor cu brokerii de asigurare<br>
+- recrutarea personalului agentiei si a agentilor de asigurare<br>
+- monitorizarea activitatii agentiei in vederea atingerii obiectivelor de vanzari
                    </p>
                        '
         );
 
-        $interamerican = new CvItem(
-            "Aug 1999 - ",
-            "Aug 1999 - ",
-            "Mar 2000",
-            "Mar 2000",
-            "Director of the Life Insurance and Group Insurance Department",
-            "Director of the Life Insurance and Group Insurance Department",
-            'INTERAMERICAN ROMANIA INSURANCE COMPANY S.A. ',
-            'INTERAMERICAN ROMANIA INSURANCE COMPANY S.A. ',
+        $grupas = new CvItem(
+            "May 2001 - ",
+            "Mai 2001 - ",
+            "Dec 2002",
+            "Dec 2002",
+            "National Sales Director, Branch Director",
+            "Branch Manager, Area Manager (20 districts)",
+            'GRUP AS Asigurari S.A.',
+            'GRUP AS Asigurari S.A.',
             '
                     <p>
-                                            negotiating and concluding contracts with insurance brokers<b> |</b> recruiting branch staff<b> |</b> recruitment of branch managers and agencies in the counties<b> |</b> developing partnerships with brokers in the area<b> |</b> monitoring and direct support to the sales force in case of more complex insurances<b> |</b> direct negotiation of large insurance contracts (conditions, quotations, commissions)                    </p>
-
-                       ',
+                        - negotiating and concluding contracts with insurance brokers<br> 
+- recruiting branch staff <br>
+- recruitment of branch managers and agencies in the counties<br> 
+- developing partnerships with brokers in the area <br>
+- monitoring and direct support to the sales force in case of more complex insurances<br> 
+- direct negotiation of large insurance contracts (conditions, quotations, commissions)
+                       </p>                      ',
             '
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
+- negocierea si incheierea contractelor cu brokerii de asigurare<br>
+- recrutarea personalului sucursalei<br>
+- recrutarea directorilor de sucursale si agentii din judetele arondate<br>
+- dezvoltarea parteneriatelor cu brokerii din zona arondata<br>
+- monitorizarea si suportul direct acordat fortei de vanzari in cazul asigurarilor complexe<br>
+- negocierea directa a contractelor de asigurare mari( conditii, cotatii, comisioane)
                     </p>
                          '
         );
@@ -215,125 +249,111 @@ Methods and techniques for covering them</p>
         $asirom = new CvItem(
             "Apr 2000 - ",
             "Apr 2000 - ",
-            "Apr 2001",
-            "Apr 2001",
+            "May 2001",
+            "Mai 2001",
+            "Deputy Branch Manager",
             "Branch Manager",
-            "Branch Manager",
-            'ASIROM S.A.',
-            'ASIROM S.A.',
+            'Asirom S.A.',
+            'Asirom S.A.',
             '
                     <p>
-                    developing partnerships with insurance brokers<b> |</b> recruitment of own sales force (agency directors, insurance inspectors)<b> |</b> training life insurance and non-life insurance<b> |</b> monitoring the activity of the branch in order to achieve the sales objectives
+- developing partnerships with insurance brokers <br>
+- recruitment of own sales force (agency directors, insurance inspectors)<br> 
+- training life insurance and non-life insurance <br>
+- monitoring the activity of the branch to achieve the sales objectives
                     </p>                       ',
             '
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                    </p>
+- coordonarea activitatii sucursalei pe linie de asigurari                    </p>
                          '
         );
 
-        $grupas = new CvItem(
-            "May 2001 - ",
-            "Mai 2001 - ",
-            "Nov 2002",
-            "Nov 2002",
-            "Branch Manager, Area Manager (20 districts)",
-            "Branch Manager, Area Manager (20 districts)",
-            'GRUP AS S.A.',
-            'GRUP AS S.A.',
+        $interamerican = new CvItem(
+            "Aug 1999 - ",
+            "Aug 1999 - ",
+            "Apr 2000",
+            "Apr 2000",
+            "Life and Health Insurance Department Director",
+            "Director of the Life Insurance and Group Insurance Department",
+            'Interamerican Romania Insurance Company S.A.',
+            'Interamerican Romania Insurance Company S.A.',
             '
                     <p>
-                        negotiating and concluding contracts with insurance brokers<b> |</b> recruiting branch staff<b> |</b> recruitment of branch managers and agencies in the counties<b> |</b> developing partnerships with brokers in the area<b> |</b> monitoring and direct support to the sales force in case of more complex insurances<b> |</b> direct negotiation of large insurance contracts (conditions, quotations,
-commissions)                       ',
+- coordinating the activities of the Life Insurance Department & Health Insurance Department<br> 
+- development of the network of agents <br>
+- recruitment, employment and personal training (consultants, unit managers, agency directors and for head office)<br> 
+- activities related to the launch of new types of life insurance (financial program concepts)
+</p>
+                       ',
             '
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                    </p>
+- coordonarea activitatii Departamentului Asigurari de Viata<br>
+- coordonarea activitatii Departamentului Asigurari de Sanatate<br>
+- dezvoltarea retelei de agentii<br>
+- recrutare, angajare si instruire personal (consultanti, unit manageri, directori agentii si pentru sediul central)<br>
+- activitati legate de lansarea de noi tipuri de asigurari de viata (conceptie program finantare consultanti de asigurare, instruire pe “produse”, elaborarea materialelor de instruire (in colaborare), intocmirea bussiness plan-ului <br>
+- elaborarea sistemului de plata a primelor de asigurare si negocierea contractului cu banca                    </p>
                          '
         );
-
-
 
 
 
         $economist = new CvItem(
-            "Jul 1997 - ",
-            "Jul 1997 - ",
+            "Nov 1994 - ",
+            "Noi 1994 - ",
             "Jul 1999",
             "Jul 1999",
-            "Economist",
-            "Economist",
-            'The Financial Assistance and Investment Company S.A.',
-            'The Financial Assistance and Investment Company S.A.',
+            "CEO, Department Director, Financial Analyst",
+            "CEO, Department Director, Financial Analyst!!",
+            'Societatea de Asistenta Financiara si Investitii S.A. - Fondul Privat de Acumulare si Pensii ',
+            'Societatea de Asistenta Financiara si Investitii S.A. - Fondul Privat de Acumulare si Pensii ',
             '
                     <p>
-                        monitoring the development of financing contracts for individuals<b> |</b> negotiation and conclusion of bank deposit contracts<b> |</b> study of the money and capital market and elaboration of syntheses regarding the main indicators                    </p>
-                       ',
+- public relations <br>
+- relations with the bank (contracts, account openings, account statements)<br> 
+- negotiation, conclusion and follow-up of contracts with distribution companies<br> 
+- negotiation and conclusion of bank deposit contracts <br>
+- conclusion of sales contracts - purchase of securities (shares, treasury certificates, participation certificates)<br> 
+- the development and implementation of the placement policy
+</p>                       ',
             '
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                    </p>
-                         '
-        );
-
-        $sopas = new CvItem(
-            "Feb 1997 - ",
-            "Feb 1997 - ",
-            "Jun 1997",
-            "Jun 1997",
-            "President - General Manager",
-            "President - General Manager",
-            'SOPAS S.A. ',
-            'SOPAS S.A. ',
-            '
-                    <p>
-                    </p>
-                       ',
-            '
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                    </p>
-                         '
-        );
-
-
-        $referent = new CvItem(
-            "Nov 1994 - ",
-            "Nov 1994 - ",
-            "Jan 1999",
-            "Jan 1999",
-            "Referent, financial analyst, head of FPAP department",
-            "Referent, financial analyst, head of FPAP department",
-            'Private Accumulation and Pensions Fund - Financial Assistance Company and Investments S.A.',
-            'Private Accumulation and Pensions Fund - Financial Assistance Company and Investments S.A.',
-            '
-                    <p> public relations<b> |</b> relations with the bank (contracts, account openings, account statements)<b> |</b> negotiating, concluding and monitoring the development of contracts with distribution companies<b> |</b> negotiation and conclusion of bank deposit contracts<b> |</b> concluding contracts for sale - purchase of securities (shares, treasury certificates, participation securities)<b> |</b> study of the money market and the capital market and elaboration of syntheses regarding the main indicators: BUBID, BUBOR, official discount tax, refinancing interest, inflation rate, interest rates charged by banks on different terms, quotation of shares on the Stock Exchange and on RASDAQ, mutual fund shares and capitalization, through investments, of the opportunities offered by these two markets<b> |</b> elaboration and implementation of the investment policy<b> |</b> coordination of the Private Accumulation Fund and Pensions department                    </p>
-                       ',
-            '
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                    </p>
+- relatii cu publicul<br>
+- relatiile cu banca (contracte, deschideri de conturi, extrase de cont)<br>
+- negocierea, incheierea si urmarirea derularii contractelor cu firmele distribuitoare<br>
+- negocierea si incheierea contractelor de depozit bancar<br>
+- incheierea contractelor de vanzare – cumparare de titluri de valoare (actiuni, certificate de trezorerie, titluri de participare)<br>
+- studierea pietei monetare si a pietei de capital si elaborarea de sinteze privind principalii indicatori: BUBID, BUBOR, taxa oficiala a scontului, dobanda de refinantare, rata inflatiei, dobanzile practicate de banci pe diferite termene, cotatia actiunilor la Bursa de Valori si pe RASDAQ, titluri de participare la fondurile mutuale si valorificarea, prin plasamente, a oportunitatilor oferite de aceste doua piete<br>
+- elaborarea si implementarea politicii de plasamente<br>
+- coordonarea departamentului Fond Privat de Acumulare si Pensii                    </p>
                          '
         );
 
 
         $romtyre = new CvItem(
-            "Aug 1994 - ",
-            "Aug 1994 - ",
-            "Oct 1994",
-            "Oct 1994",
+            "Apr 1994 - ",
+            "Apr 1994 - ",
+            "Nov 1994",
+            "Noi 1994",
             "Trainee economist ",
             "Trainee economist ",
             'Romtyre and Rubber S.A.',
             'Romtyre and Rubber S.A.',
             '
                     <p>
-                        contacting potential external partners by launching offers through economic advisers of Romanian embassies and consulates abroad<b> |</b> negotiation of export prices (within the limits imposed by management)<b> |</b> negotiation and conclusion of international transport contracts (bill of lading, consignment note)<b> |</b> agreeing, with the external partner, the conditions of payment (letter of credit or documentary collection) and the conditions of delivery of the goods<b> |</b> sending the export documents to the bank in order to collect the export<b> |</b> monthly preparation of the situation of the operations carried out in the previous month and their presentation to the president of the company                    </p>
-                       ',
+- contacting potential external partners by launching offers through economic advisers of Romanian embassies and consulates abroad<br> 
+- negotiation of export prices (within the limits imposed by management) <br>
+- negotiation and conclusion of international transport contracts (bill of lading, consignment note)<br> 
+- agreeing, with the external partner, the conditions of payment (letter of credit or documentary collection) and the conditions of delivery of the goods
+</p>                       ',
             '
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur non optio perferendis temporibus veniam voluptas?
-                    </p>
+- contactarea potentialilor parteneri externi prin lansarea de oferte prin intermediul consilierilor economici ai ambasadelor sau consulatelor Romaniei in strainatate<br>
+- negocierea preturilor de export (in limitele impuse de conducere)<br>
+- negocierea si incheierea contractelor de transport international (conosament, scrisoare de trasura)<br>
+- convenirea, cu partenerul extern, a conditiilor de plata (acreditiv sau incaso) si a conditiilor de livrare a marfii<br>
+- remiterea documentelor de export bancii in vederea incasarii exportului<br>
+- intocmirea lunara a situatiei operatiunilor derulate in luna precedenta si prezentarea acestora presedintelui societatii                    </p>
                          '
         );
 
@@ -348,8 +368,6 @@ commissions)                       ',
             $asirom,
             $interamerican,
             $economist,
-            $sopas,
-            $referent,
             $romtyre
         );
 
