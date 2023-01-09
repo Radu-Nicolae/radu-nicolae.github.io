@@ -58,3 +58,24 @@
 </style>
 
 
+<section style="padding-top: 4rem !important;" class="ftco-section ftco-no-pt ftco-no-pb ftco-counter img"
+         id="section-counter" xmlns="http://www.w3.org/1999/html">
+
+    <h2 class="heading">Driving Licenses</h2>
+
+    <div class="container-fluid px-md-5">
+        <div class="row d-md-flex align-items-center">
+            <div class="col-md d-flex justify-content-center counter-wrap ftco-animate paddingCounter">
+                <div class="block-18 shadow">
+                    <div class="text">
+
+                        <strong class="number" style="color:#3e64ff"><i class="flatticon-driving ti-id-badge"></i></strong>
+                        <b><span style="color: #3e64ff; font-size: 120%">AM, B, C</span></b>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+

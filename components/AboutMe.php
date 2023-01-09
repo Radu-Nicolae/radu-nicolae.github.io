@@ -23,7 +23,6 @@
                             <li class="d-flex"><span><?= $aboutMe[2][$lang] ?></span> <span><?= $aboutMe[3][$lang] ?></span></li>
                             <li class="d-flex"><span><?= $aboutMe[4][$lang] ?></span> <span><?= $aboutMe[5][$lang] ?></span></li>
                             <li class="d-flex"><span><?= $aboutMe[6][$lang] ?></span> <span><?= $aboutMe[7][$lang] ?></span></li>
-                            <li class="d-flex"><span><?= $aboutMe[8][$lang] ?></span> <span><?= $aboutMe[9][$lang] ?></span></li>
                             <li class="d-flex"><span><?= $aboutMe[10][$lang] ?></span> <a href="mailto:viorelnicolae@yahoo.com"><span
                                         style="color: #595959 !important; text-decoration: underline; font-weight: normal;"><?= $aboutMe[11][$lang] ?></span></a></span>
                             </li>
@@ -36,12 +35,12 @@
                 <div class="counter-wrap ftco-animate d-flex mt-md-3 fadeInUp ftco-animated">
                     <div class="text">
                         <p class="mb-4">
-                            <span class="number"><?=$yearsOfExperience?></span>
+                            <span class="number"><?= $yearsOfExperience ?></span>
                             <span>Years of experience</span>
                         </p>
 <!--                        <p><a href="CV-RaduNicolae.pdf" class="btn btn-primary py-3 px-3" download>Download CV</a></p>-->
                         <div style="display: flex;">
-                            <p style="padding-right: 0.5rem"><a href="CV-ViorelNicolae-English.pdf" class="btn btn-primary py-3 px-3" download>Download CV</a></p>
+                            <p style="padding-right: 0.5rem"><a href=<?= $aboutMe[15][$lang] ?> class="btn btn-primary py-3 px-3" download>Download CV</a></p>
                             <p><a href="https://www.linkedin.com/in/viorel-nicolae-26885314" class="btn btn-primary"><span class="ion-logo-linkedin" style="font-size: 200%; padding-left: 0.1rem; color: white !important;"></span></a></p>
                         </div>
 

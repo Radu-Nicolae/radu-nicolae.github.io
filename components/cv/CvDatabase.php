@@ -16,34 +16,39 @@ class CvDatabase
             "Economist ",
             "Economist ",
             'Academy of Economic Studies, Faculty of Commerce, specialization International economic Relations',
-            'Academia de Studii Economice, Facultatea de Comerţ, specializarea Relaţii Economice Internaţionale',
+            'Academia de Studii Economice, Facultatea de Comert - Relatii Economice Internationale',
 
             '
                     <div style="color:#999999">
-                        <p><b>Bachelor\'s Degree in</b>: Political Economy, International Trade, Management
-    and Foreign Trade Techniques</p>  
-                        <p><b>Diploma:</b> Foreign exchange and interest rate risk in international trade.
-Methods and techniques for covering them</p>
+                        <p><b>Bachelor\'s Degree</b>: Political Economy, International Trade, Management and Foreign
+Trade Techniques</p>  
+                        <p><b>Diploma:</b> Foreign exchange and interest rate risk in international trade. Methods and
+techniques for covering them</p>
                         <p><b>Final degree: 9.13</b></p>
                         
                         <br><br>
                         <p><span style="font-size: 120%"><b>Other courses:</b></span>
-<br>broker course (broker authorized by the Romanian Commodity
-<br>Exchange on the spot, forward, futures markets)
-<br>actuarial seminar - life insurance (USAID program)
-<br>investment seminar (USAID program)
-<br>sales techniques courses - LIMRA
-<br>claims, reinsurance courses - MÜNICH RE, FRANKONA RE</p>
+<br> - broker course (broker authorized by the Romanian Commodity Exchange on the spot,
+<br> - forward, and futures markets)
+<br> - actuarial seminar - life insurance (USAID program)
+<br> - investment seminar (USAID program)
+<br> - sales techniques courses - LIMRA
+<br> - claims, reinsurance courses - MÜNICH RE, FRANKONA RE</p>
                     </div>
                 ',
 
             '
                     <div style="color:#999999">
-                        <p><b>Licenţă la disciplinele:</b> Economie Politică, Comerţ Internaţional, Management
-şi Tehnici de Comerţ Exterior</p>  
-                        <p><b>Diplomă:</b>Riscul valutar şi al ratei dobânzii în comerţul internaţional. Metode
-şi tehnici de acoperire a lor</p>
-                        <p><b>Medie finală: 9,13</b></p>
+                        <p><b>Licenta la disciplinele:</b> Economie Politica, Comert International, Management si Tehnici de Comert Exterior</p>  
+                        <p><b>Diploma:</b> Riscul valutar si al ratei dobanzii in comertul international. Metode si tehnici de acoperire a acestora</p>
+                        <p><b>Medie finala: 9,13</b></p>
+                        
+                        <p><span style="font-size: 120%"><b>Alte cursuri:</b></span>
+<br>- curs de broker (broker autorizat de Bursa Romana de Marfuri pe pietele spot, forward, futures)
+<br>- seminar de actuariat - asigurari de viata (programul USAID)
+<br>- seminar de investitii (programul USAID)
+<br>- tehnici de vanzari - LIMRA
+<br>- daune, reasigurari - MÜNICH RE, FRANKONA RE
                     </div>
                 '
         );
@@ -67,8 +72,8 @@ Methods and techniques for covering them</p>
             "prezent",
             'Broker Business Development Director',
             'Broker Business Development Director',
-            "Grawe Romania S.A.",
-            "Grawe Romania S.A.",
+            "Grawe Romania Asigurare S.A.",
+            "Grawe Romania Asigurare S.A.",
 
             '
                 <p>
@@ -253,8 +258,8 @@ Methods and techniques for covering them</p>
             "Mai 2001",
             "Deputy Branch Manager",
             "Branch Manager",
-            'Asirom S.A.',
-            'Asirom S.A.',
+            'ASIROM S.A. - Vienna Insurance Group',
+            'Asirom S.A. - Vienna Insurance Group',
             '
                     <p>
 - developing partnerships with insurance brokers <br>

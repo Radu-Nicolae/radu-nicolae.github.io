@@ -3,6 +3,14 @@
 
 <html>
 
+<style>
+    @media (max-width: 1091px) {
+        .flag-left, .flag-right{
+            transform: translateX(0)
+        }
+    }
+</style>
+
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target scrolled awake"
      id="ftco-navbar">
     <div class="container">
@@ -18,7 +26,7 @@
                 <li class="nav-item"><a href="#about-section" class="nav-link"><span> <?= $navbar[1][$lang] ?> </span></a></li>
                 <li class="nav-item"><a href="#resume-section" class="nav-link"><span> <?= $navbar[2][$lang] ?> </span></a></li>
                 <li class="nav-item"><a href="#contact-section" class="nav-link"><span> <?= $navbar[4][$lang] ?> </span></a></li>
-                <li class="nav-item"><a href="https://radu-nicolae.com" class="nav-link"><img src="ukFlag.jpeg"
+                <li class="nav-item"><a href="https://viorelnicolae.com" class="nav-link"><img src="ukFlag.jpeg"
                                                                                 class="flag-image flag-left"></a></li>
                 <li class="nav-item"><a href="ro.php" class="nav-link"><img src="roFlag.jpeg"
                                                                                          class="flag-image flag-right"></a>

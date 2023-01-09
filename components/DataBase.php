@@ -26,7 +26,7 @@ $iam2 = array(
 
 $aboutMe = array(
     array("About me", "Despre mine"),
-    array("Dream. Work. Succeed!", "Dream. Work. Succeed!"),
+    array('<i>"empower your team to success<br> and your company will follow"</i>', '<i>"empower your team to success<br> and your company will follow"</i>'),
     array("Name: ", "Nume: "),
     array("Viorel Nicolae", "Viorel Nicolae"),
     array("Date of birth: ", "Data nașterii: "),
@@ -39,7 +39,8 @@ $aboutMe = array(
     array("viorelnicolae@yahoo.com", "viorelnicolae@yahoo.com"),
     array("Phone: ", "Telefon: "),
     array("+40722715121", "+40722715121"),
-    array("Years of experience", "Ani de experiență")
+    array("Years of experience", "Ani de experiență"),
+    array("CV-ViorelNicolae-English.pdf", "CV-ViorelNicolae-Romana.pdf")
 );
 
 $cvCategories = array(
